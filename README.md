@@ -41,15 +41,6 @@ Notes are organized systematically by week, following the official CS50x curricu
 
 ---
 
-## Ecosystem Integration
-
-This repository is an active asset of the **AmyoSec** ecosystem, serving as the open-source documentation baseline during Phase 1 of the platform's development.
-
-*   **Community:** [Join the AmyoSec Discord](TU_ENLACE_DE_DISCORD_AQUI)
-*   **Professional Profile:** [Connect on LinkedIn](TU_ENLACE_DE_LINKEDIN_AQUI)
-
----
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
