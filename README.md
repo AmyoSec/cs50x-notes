@@ -25,7 +25,7 @@ Notes are organized systematically by week, following the official CS50x curricu
 *   `week07-sql.md` - Relational Databases, Queries, and Data Management.
 *   `week08-html-css-javascript.md` - Web Fundamentals, DOM Manipulation, and Frontend.
 *   `week09-flask.md` - Web Frameworks, MVC Architecture, and Server-side Logic.
-*   `week10-cybersecurity.md` - Security Mindset, Common Vulnerabilities, and Defensive Coding.
+*   `week10-final-project.md` - Capstone Project, Software Engineering, and The End.
 
 ---
 
